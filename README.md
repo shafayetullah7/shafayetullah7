@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafayetullah7&label=Profile%20views&color=0e75b6&style=flat" alt="shafayetullah7" /> </p>
 
-- 🌱 I’m currently learning **I'm currently expanding my skills in server-side development by delving deeper into Node.js, Express.js, and RESTful APIs.**
+- 🌱 **I'm currently expanding my skills in server-side development by delving deeper into Node.js, Express.js, and RESTful APIs.**
 
 - 💬 Ask me about **React front-end development, responsive web design, code organization best practices, and troubleshooting web applications**
 
