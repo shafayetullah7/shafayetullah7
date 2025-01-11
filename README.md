@@ -1,11 +1,23 @@
-<h1 align="center">Hi 👋, I'm Shafayet Ullah</h1>
-<h3 align="center">I am a dedicated Front-End Web Developer focused on creating engaging user experiences using the power of React.</h3>
+### Hello, I'm **Shafayet Ullah** 👋  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shafayetullah7&label=Profile%20views&color=0e75b6&style=flat" alt="shafayetullah7" /> </p>
+I am a **Full-Stack Web Developer** with a strong foundation in backend systems and a passion for crafting seamless, scalable applications.  
 
-- 🌱 **I'm currently expanding my skills in server-side development by delving deeper into Node.js, Express.js, and RESTful APIs.**
+#### 🔹 **Technical Expertise**  
+- **Backend Development**:  
+  - Proficient in **Express.js**, **NestJS**, and **TypeScript**.  
+  - Experienced with databases including **MySQL**, **PostgreSQL**, and **MongoDB**.  
 
-- 💬 Ask me about **React front-end development, responsive web design, code organization best practices, and troubleshooting web applications**
+- **Frontend Development**:  
+  - Skilled in building responsive and interactive user interfaces with **React** and **Next.js**.  
+
+#### 🔹 **Why Work With Me?**  
+I bring:  
+- A solid understanding of **backend architecture** and its integration with modern front-end frameworks.  
+- A focus on **clean code**, **performance optimization**, and **best practices**.  
+- A mindset of continuous learning to stay updated with the latest technologies.  
+
+Let's connect to discuss how I can contribute to your project or organization!
+
 
 - 📫 How to reach me **shafayetullah410@gmail.com**
 
