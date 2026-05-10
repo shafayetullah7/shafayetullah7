@@ -1,37 +1,117 @@
-### Hello, I'm **Shafayet Ullah** 👋  
+# 👋 Hi, I'm Shafayet Ullah
 
-I am a **Full-Stack Web Developer** with a strong foundation in backend systems and a passion for crafting seamless, scalable applications.  
+**Software Engineer** (Backend-focused) building scalable systems with TypeScript, NestJS & PostgreSQL. I enjoy exploring new technologies and continuously expanding my understanding of software development.
 
-#### 🔹 **Technical Expertise**  
-- **Backend Development**:  
-  - Proficient in **Express.js**, **NestJS**, and **TypeScript**.  
-  - Experienced with databases including **MySQL**, **PostgreSQL**, and **MongoDB**.  
+---
 
-- **Frontend Development**:  
-  - Skilled in building responsive and interactive user interfaces with **React** and **Next.js**.  
+## 🔧 Languages & Tools
 
-#### 🔹 **Why Work With Me?**  
-I bring:  
-- A solid understanding of **backend architecture** and its integration with modern front-end frameworks.  
-- A focus on **clean code**, **performance optimization**, and **best practices**.  
-- A mindset of continuous learning to stay updated with the latest technologies.  
-
-Let's connect to discuss how I can contribute to your project or organization!
-
-
-- 📫 How to reach me **shafayetullah410@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shafayet-ullah-b5a484278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafayet-ullah-b5a484278" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shafayet_ullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shafayet_ullah" height="30" width="40" /></a>
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/></td>
+    </tr>
+  </table>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <b>SolidJS</b> + <b>SolidStart</b> — modern reactive UI library I'm currently exploring → <a href="https://solidjs.com">solidjs.com</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafayetullah7&show_icons=true&locale=en&layout=compact" alt="shafayetullah7" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafayetullah7&show_icons=true&locale=en" alt="shafayetullah7" /></p>
+## 💡 What I Bring & What I'm Learning
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafayetullah7&" alt="shafayetullah7" /></p>
+I develop backend systems with **Node.js (NestJS)** and relational databases, focusing on clean architecture, database design, and maintainable structures. My experience includes:
+
+- Enterprise modules for **HRM** (payroll, employee/attendance management) and **OTA platforms** (RBAC, financial ledger systems)
+- **Multi-tenant SaaS** e-commerce builder with Stripe integration
+- **Authentication systems** including OIDC-based SSO
+- Production deployment, server configuration, **Swagger** API documentation, and caching strategies
+
+### 🔭 Currently Exploring
+
+I'm passionate about writing **cleaner, more maintainable software**. Right now I'm diving deep into:
+
+- **Domain-Driven Design (DDD)** – to improve backend system design and business logic structuring
+- **SolidJS & SolidStart** – building a fullstack project with AI-assisted tools (Antigravity, Kilo Code) while maintaining architectural ownership
+- **Distributed systems, microservices, CI/CD, TDD, and automation**
+
+> *"I enjoy understanding not only how to make something work, but how to structure it properly for long-term scalability and maintainability."*
+
+---
+
+## 📌 Featured Project: ByteForge
+
+**Multi-vendor plant marketplace** – my exploration of SolidJS in action:
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=ByteForge+Screenshot+%7C+Live+Demo+Coming+Soon" alt="ByteForge screenshot placeholder" width="90%">
+  <br>
+  <em>⬆️ Screenshot coming soon — backend is live, frontend in active development</em>
+</p>
+
+**Stack:**
+- **Backend:** NestJS + TypeScript + PostgreSQL  
+- **Frontend:** SolidJS + SolidStart + Tailwind CSS  
+
+**Features:** Bilingual (English/Bengali with i18n), seller verification workflow, shop management, cart & orders  
+
+**🔗 Links:** 
+- [Frontend Repo](https://github.com/shafayetullah7/byte-forge-frontend) 
+- [Admin Repo](https://github.com/shafayetullah7/byte-forge-admin) 
+- [Backend API](https://github.com/shafayetullah7/byte-forge-auth)
+
+> 🚧 **Live demo:** Coming soon. Once deployed, a live link will replace this placeholder.
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafayetullah7&theme=github-light&area=true&hide_border=true" alt="GitHub contribution graph" width="95%">
+</p>
+
+---
+
+## 🤝 Collaboration
+
+I work well both independently and in teams. I enjoy collaborative problem-solving, discussing implementation approaches with teammates, reviewing ideas, and taking ownership of the systems I work on.
+
+---
+
+## 📫 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/shafayet-ullah-b5a484278"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://codeforces.com/profile/shafayet_ullah"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+  <a href="mailto:shafayetullah410@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+<p align="center">
+📧 shafayetullah410@gmail.com • 📍 Chandpur, Bangladesh
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shafayetullah7&show_icons=true&layout=compact" alt="top langs" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafayetullah7" alt="streak stats" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shafayetullah7&show_icons=true" alt="github stats" width="50%" />
+</p>
